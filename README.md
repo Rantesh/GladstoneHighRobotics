@@ -1,5 +1,9 @@
 # GladstoneHighRobotics
 
+## Resources
+
+* 2016 FRC Control System - http://wpilib.screenstepslive.com/s/4485
+
 ## Getting Started
 
 We use Luna Eclipse as an IDE and build tool with an FRC plugin. Download and install it.
