@@ -12,3 +12,4 @@ TODO: document how to setup eclipse, where to download it (and plugins) from and
 * Clean up Workspace
 * Learn about pointers
 * Learn about classes
+* Debugging
